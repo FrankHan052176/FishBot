@@ -25,7 +25,7 @@ var (
 	timeout int
 	resp    *ygg.Access
 	auth    l.Player
-	version = "1.16.1"
+	version = "1.16.5"
 	waiting bool
 )
 
